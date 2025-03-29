@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstdint": "c",
+        "cstddef": "c",
+        "nvs_flash.h": "c"
+    }
+}
